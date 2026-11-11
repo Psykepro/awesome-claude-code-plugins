@@ -262,6 +262,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [skill-auto-installer](./plugins/skill-auto-installer)
 - [tldr](./plugins/tldr)
 - [Imagine](https://github.com/freestyler-arb/imagine-gemini-for-claude-codex) - Brings Google Gemini into Claude Code & Codex: delegate reasoning, independent code review, deep research, and automatic prompt-engineering. Runs on your Google AI Pro subscription, not your agent's tokens.
+- [open-file-links](https://github.com/Psykepro/open-file-links) - Clickable open and copy buttons for file paths in Claude Code's terminal, plus one-click copy for commands and code blocks. Works with any editor.
 
 ### Documentation
 - [analyze-codebase](./plugins/analyze-codebase)
